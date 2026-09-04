@@ -1,0 +1,9 @@
+# Generated packages and production builds should stay out of version control.
+node_modules/
+dist/
+.pnpm-store/
+
+# Local environment files may later contain private keys.
+.env
+.env.*
+!.env.example
