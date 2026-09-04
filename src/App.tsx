@@ -117,7 +117,9 @@ function App() {
         </form>
       </section>
 
-      <p className="footer-note">PinCraft is your calm space to plan what you’ll share next.</p>
+      <p className="footer-note">
+        PinCraft is your calm space to plan what you’ll share next. <a href={`${import.meta.env.BASE_URL}privacy-policy.html`}>Privacy Policy</a>
+      </p>
     </main>
   )
 }

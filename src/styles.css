@@ -54,5 +54,6 @@ select:disabled { cursor: not-allowed; color: #9c9691; background: #f7f5f3; }
 .status-dot { height: 8px; width: 8px; border-radius: 50%; background: #e39b43; }
 button { border: 0; border-radius: 9px; padding: 13px 18px; color: #fff; background: #b83434; font-weight: 750; cursor: not-allowed; opacity: .58; }
 .footer-note { margin: 27px 0 0; color: #89817b; text-align: center; font-size: .79rem; }
+.footer-note a { color: #a73432; font-weight: 700; }
 
 @media (max-width: 700px) { .page-shell { padding: 15px; } .hero { min-height: 300px; padding: 25px; } .hero-copy { margin-top: 62px; } .progress-pill { top: 27px; right: 26px; } .composer { margin: -24px 0 0; padding: 24px 20px; } .section-heading, .form-footer { gap: 18px; align-items: flex-start; flex-direction: column; } .form-grid { grid-template-columns: 1fr; gap: 25px; } .upload-area { min-height: 230px; } h2 { font-size: 1.7rem; } }
