@@ -2,6 +2,8 @@
 
 A small starting point for a personal app that prepares Pinterest Pins. Pinterest authentication and publishing are deliberately not included yet.
 
+> PinCraft is currently in active development. The interface helps prepare a Pin today; direct Pinterest publishing will be added in a future release.
+
 ## Run locally
 
 1. Install the project packages with `pnpm install`.
